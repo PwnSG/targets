@@ -16,7 +16,6 @@
 - https://packages.debian.org/jessie/utils/ttf2ufm
 - https://packages.debian.org/jessie/utils/sosi2osm
 - https://packages.debian.org/jessie/a2ps
-- https://packages.debian.org/jessie/utils/arj
 - https://packages.debian.org/jessie/lzop
 - https://packages.debian.org/jessie/rpm
 - https://packages.debian.org/jessie/unace
@@ -34,3 +33,7 @@
 - https://github.com/vapier/ncompress
 - https://packages.debian.org/jessie/utils/pax
 - https://packages.debian.org/jessie/utils/poppler-utils
+
+## Rejected
+
+- https://packages.debian.org/jessie/utils/arj
