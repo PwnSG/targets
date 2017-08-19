@@ -10,10 +10,6 @@
 
 - https://packages.debian.org/jessie/utils/cue2toc
 
-## Priority
-
-- https://github.com/vapier/ncompress
-
 ## Pending
 
 - https://packages.debian.org/jessie/jbig2dec (Recent findings)
@@ -35,3 +31,6 @@
 - https://packages.debian.org/jessie/utils/jparse
 - https://packages.debian.org/source/jessie/lhasa
 - http://ncompress.sourceforge.net/
+- https://github.com/vapier/ncompress
+- https://packages.debian.org/jessie/utils/pax
+- https://packages.debian.org/jessie/utils/poppler-utils
